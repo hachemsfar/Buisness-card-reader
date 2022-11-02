@@ -1,0 +1,3 @@
+pytesseract
+streamlit
+opencv-python
