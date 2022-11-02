@@ -1,2 +1,2 @@
-pytesseract
-streamlit
+pytesseract==0.3.8
+streamlit==0.73.0
